@@ -1,7 +1,1 @@
-Hello, world!
-
-# test 1 
-
-HI
-
-test 123
+answer = input( "What's your name? ")
